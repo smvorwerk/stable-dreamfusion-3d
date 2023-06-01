@@ -1,0 +1,12 @@
+__pycache__/
+build/
+*.egg-info/
+*.so
+
+tmp*
+data/
+trial*/
+.vs/
+PyMarchingCubes/
+trial/
+output/
